@@ -10,11 +10,11 @@ The purpose of the app is to help users find the recipe they are looking for wit
 
 # Table of Contents
 
-1. ### [Installation](https://github.com/3amBEANS/Recipe-Project/edit/main/README.md#installation-1)
-2. ### [How Login Works](https://github.com/3amBEANS/Recipe-Project/edit/main/README.md#how-login-works-1)
-3. ### [Major Components and Features](https://github.com/3amBEANS/Recipe-Project/edit/main/README.md#major-components-and-features-1)
-4. ### [Tech Stack](https://github.com/3amBEANS/Recipe-Project/edit/main/README.md#tech-stack-1)
-5. ### [Credits](https://github.com/3amBEANS/Recipe-Project/edit/main/README.md#credits-1)
+1. ### [Installation](https://github.com/3amBEANS/Recipe-Project/blob/main/README.md#installation-1)
+2. ### [How Login Works](https://github.com/3amBEANS/Recipe-Project/blob/main/README.md#how-login-works-1)
+3. ### [Major Components and Features](https://github.com/3amBEANS/Recipe-Project/blob/main/README.md#major-components-and-features-1)
+4. ### [Tech Stack](https://github.com/3amBEANS/Recipe-Project/blob/main/README.md#tech-stack-1)
+5. ### [Credits](https://github.com/3amBEANS/Recipe-Project/blob/main/README.md#credits-1)
 
 # Installation 
 * cd into the backend folder and type the command `npm install` to install the dependencies
